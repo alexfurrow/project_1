@@ -1,0 +1,3 @@
+Hello MSBAs
+
+My name is Alex, welcome to the program. Today we're adding GIT to your repertoire. Woohoo! 
